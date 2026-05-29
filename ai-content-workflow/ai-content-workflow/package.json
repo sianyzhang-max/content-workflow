@@ -1,9 +1,0 @@
-{
-  "name": "ai-content-workflow",
-  "version": "1.0.0",
-  "description": "AI 内容运营部工作流 — Multi-Agent Content Operations Workflow",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  }
-}
